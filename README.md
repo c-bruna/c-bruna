@@ -1,4 +1,4 @@
-### Olá! Eu sou a Bruna Custódio
+### Hi, I'm Bruna Custódio!
 ##
 <div align="center">
   <a href="https://github.com/c-bruna">
