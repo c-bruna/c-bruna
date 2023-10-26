@@ -9,7 +9,7 @@
 - 📱 Back-end: Experiência com Django.
 - 🎓 Na faculdade, fiz projetos com: C++, HTML5, CSS3 e JavaScript.
 - 📖 Estudando Programação Orientada a Objetos com Java.
-- 🛠️ Habilidades: Latex, Git e lógica de programação.
+- 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
