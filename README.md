@@ -8,7 +8,7 @@
 - 💻 Interesse em desenvolvimento web.
 - 📱 Back-end: Experiência com Django.
 - 🎓 Na faculdade, fiz projetos com: C++, HTML5, CSS3 e JavaScript.
-- 📖 Estudando Programação Orientada a Objetos com Java.
+- 📖 Estudando Java.
 - 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
 
 <div style="display: inline_block"><br>
