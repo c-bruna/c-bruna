@@ -2,10 +2,10 @@
 
 ## Sobre mim
 - 🎓 Sou estudante do bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN).
-- 🌱 Atualmente, estou focada em desenvolvimento web, buscando aprimorar minhas habilidades.
+- 🌱 Atualmente, estou focada em desenvolvimento de software, buscando aprimorar minhas habilidades.
 
 ## Habilidades e Interesses
-- 💻 Interesse em desenvolvimento web.
+- 💻 Interesse em desenvolvimento de software.
 - 📱 Back-end: Experiência com Django.
 - 🎓 Na faculdade, fiz projetos com: C++, HTML5, CSS3 e JavaScript.
 - 📖 Estudando Java.
