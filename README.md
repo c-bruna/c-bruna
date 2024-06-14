@@ -2,18 +2,19 @@
 
 ## Sobre mim
 - 🎓 Sou estudante do bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN).
-- 🌱 Atualmente, estou focada em desenvolvimento de software, buscando aprimorar minhas habilidades.
+- 🌱 Atualmente, sou estagiária de Ciência de Dados na área de Inteligência Artificial.
 
 ## Habilidades e Interesses
-- 💻 Interesse em desenvolvimento de software.
-- 📱 Back-end: Experiência com Django.
+- 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
+- 📱 Back-end: Experiência com Django e Pyhton.
 - 🎓 Na faculdade, fiz projetos com: C++, HTML5, CSS3 e JavaScript.
-- 📖 Estudando Java.
+- 📖 Estudando Java e Python (numpy, pandas, sklearn, matplotlib, seaborn).
 - 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bru-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
+  <img align="center" alt="Bru-Python" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)">
   <img align="center" alt="Bru-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">       
 </div>
