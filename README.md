@@ -6,7 +6,7 @@
 
 ## Habilidades e Interesses
 - 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
-- 📱 Back-end: Experiência com Django e Pyhton.
+- 📱 Back-end: Experiência com Django e Python.
 - 🎓 Na faculdade, fiz projetos com: C++, HTML5, CSS3 e JavaScript.
 - 📖 Estudando Java e Python (numpy, pandas, sklearn, matplotlib, seaborn).
 - 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
