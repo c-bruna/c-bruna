@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 🎓 Sou estudante do bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN).
-- 🌱 Atualmente, sou estagiária de Ciência de Dados na área de Inteligência Artificial.
+- 🌱 Atualmente, sou estagiária de TI na SEFAZ/RN.
 
 ## Habilidades e Interesses
 - 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
