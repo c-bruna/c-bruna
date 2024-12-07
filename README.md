@@ -7,8 +7,9 @@
 ## Habilidades e Interesses
 - 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
 - 📱 Back-end: Experiência com Django e Python.
+- 📱 Mobile: Experiência com Maui e C#.
 - 🎓 Na faculdade, fiz projetos com: C++, Java, HTML5, CSS3 e JavaScript.
-- 📖 Estudando Java e Python (numpy, pandas, sklearn, matplotlib, seaborn).
+- 📖 Estudando Java, C# e Python (numpy, pandas, sklearn, matplotlib, seaborn).
 - 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
 
 <div style="display: inline_block"><br>
