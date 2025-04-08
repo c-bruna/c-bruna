@@ -1,7 +1,8 @@
 # Olá, eu sou Bruna Custódio! 👋
 
 ## Sobre mim
-- 🎓 Sou estudante do bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN).
+- 🎓 Bacharela em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN).
+- 🎓 Estudante do Bacharelado em Inteligência Artificial na UFRN.
 - 🌱 Atualmente, sou estagiária de TI na SEFAZ/RN.
 - Atuo em projetos de desenvolvimento mobile com Maui e C#.
 
@@ -10,7 +11,7 @@
 - 📱 Back-end: Experiência com Django e Python.
 - 📱 Mobile: Experiência com Maui e C#.
 - 🎓 Na faculdade, fiz projetos com: C++, Java, HTML5, CSS3 e JavaScript.
-- 📖 Estudando Java, C# e Python (numpy, pandas, sklearn, matplotlib, seaborn).
+- 📖 Estudando Python (numpy, pandas, scikitlearn, matplotlib, seaborn).
 - 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
 
 <div style="display: inline_block"><br>
