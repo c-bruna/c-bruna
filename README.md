@@ -3,8 +3,6 @@
 ## Sobre mim
 - 🎓 Bacharela em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN).
 - 🎓 Estudante do Bacharelado em Inteligência Artificial na UFRN.
-- 🌱 Atualmente, sou estagiária de TI na SEFAZ/RN.
-- Atuo em projetos de desenvolvimento mobile com Maui e C#.
 
 ## Habilidades e Interesses
 - 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
