@@ -8,8 +8,7 @@
 - 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
 - 📱 Back-end: Experiência com Django e Python.
 - 📱 Mobile: Experiência com Maui e C#.
-- 🎓 Na faculdade, fiz projetos com: C++, Java, HTML5, CSS3 e JavaScript.
-- 📖 Estudando Python (numpy, pandas, scikitlearn, matplotlib, seaborn).
+- 🎓 Na faculdade, fiz projetos com: Python, C++, Java, HTML5, CSS3 e JavaScript.
 - 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
 
 <div style="display: inline_block"><br>
