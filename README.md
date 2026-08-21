@@ -1,15 +1,12 @@
 # Olá, eu sou Bruna Custódio! 👋
 
 ## Sobre mim
+- Estagiária de Engenharia de Software no iFood
 - 🎓 Bacharela em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN).
 - 🎓 Estudante do Bacharelado em Inteligência Artificial na UFRN.
 
 ## Habilidades e Interesses
-- 💻 Interesse em desenvolvimento de software e Inteligência Artificial.
-- 📱 Back-end: Experiência com Django e Python.
-- 📱 Mobile: Experiência com Maui e C#.
-- 🎓 Na faculdade, fiz projetos com: Python, C++, Java, HTML5, CSS3 e JavaScript.
-- 🛠️ Outras Habilidades: Latex, Git e lógica de programação.
+- 💻 Interesse em Engenharia de Software e Inteligência Artificial.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
